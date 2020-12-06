@@ -29,6 +29,7 @@
 <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="ccs3" width="22" height="22"/> 
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="22" height="22"/> 
 <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="22" height="22"/> 
+<img src="https://devicon.dev/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
