@@ -37,7 +37,6 @@
 <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="intellij" width="22" height="22"/> 
 <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="22" height="22"/> 
 <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="22" height="22"/> 
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
