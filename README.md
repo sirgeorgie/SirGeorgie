@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanakon Boonyawatwanit</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer plus network and born at very little age😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/georgecrakr?label=georgecrakr&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/sirgeorgie?logo=GitHub&style=for-the-badge)
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- ⚡ Fun fact **I love to play Badminton and coffee.**
 
 ### Connect with me:
 
