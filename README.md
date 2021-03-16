@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanakon Boonyawatwanit</h1>
 <h3 align="center">A self-taught programmer plus network and born at very little age😜</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/georgecrakr?label=georgecrakr&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/sirgeorgiiee?label=georgecrakr&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/sirgeorgie?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on [CPF IT CENTER](https://www.cpfworldwide.com/th/home)
