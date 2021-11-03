@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [CPF IT CENTER](https://www.cpfworldwide.com/th/home)
 
-- 🌱 I’m currently learning **CUBA, Vaadin**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 👯 I’m looking to **move to new entrepreneur**
 
 - ⚡ Fun fact **I love to play Badminton and coffee.**
 
