@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanakon Boonyawatwanit</h1>
+<h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A self-taught programmer plus network and born at very little age😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sirgeorgiiee?label=sirgeorgiiee&logo=twitter&style=for-the-badge)
