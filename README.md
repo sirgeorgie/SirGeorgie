@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/sirgeorgiiee?label=sirgeorgiiee&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/sirgeorgie?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [-](-)
+- 🔭 I’m currently working on [Axons (CPF IT)](-)
 
 - 🌱 I’m currently learning **New Tech**
 
