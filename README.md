@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A self-taught programmer plus network and born at very little age😜</h3>
-<a href="https://app.daily.dev/7057"><img src="https://api.daily.dev/devcards/f8bea1646b314f139a28c287b9ff1ce2.png?r=sex" width="400" alt="SirGeorgie's Dev Card"/></a>
+
+<a href="https://app.daily.dev/7057"><img src="https://api.daily.dev/devcards/f8bea1646b314f139a28c287b9ff1ce2.png?r=sex" width="200" alt="SirGeorgie's Dev Card"/></a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sirgeorgiiee?label=sirgeorgiiee&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/sirgeorgie?logo=GitHub&style=for-the-badge)
