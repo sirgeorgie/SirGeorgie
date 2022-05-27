@@ -35,3 +35,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sirgeorgie&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tyh5ugfqx7c45sssy67aniaupy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tyh5ugfqx7c45sssy67aniaupy&redirect=true)
